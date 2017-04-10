@@ -1,6 +1,8 @@
 # vuejs2-summernote-component
 
-> A Vue.js project
+> A simple Vuejs 2.2.x Component for Summernote to get started
+
+[DEMO](https://stefanneuser.github.io/vuejs2-summernote-component/dist/index.html)
 
 ## Build Setup
 
